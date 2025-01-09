@@ -7,12 +7,14 @@
 # server process.
 
 # Basic Site Settings
+language                 : en
 locale                   : "en-US"
 title                    : "Yipeng Liu(刘翼鹏)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://xzh777.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://xzh777.github.io/en # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+root                     : /en/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
